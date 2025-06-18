@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\bin\Debug\net8.0\SLR.exe
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\bin\Debug\net8.0\SLR.deps.json
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\bin\Debug\net8.0\SLR.runtimeconfig.json
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\bin\Debug\net8.0\SLR.dll
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\bin\Debug\net8.0\SLR.pdb
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.AssemblyInfo.cs
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.dll
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\refint\SLR.dll
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.pdb
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\SLR.genruntimeconfig.cache
+C:\Users\User\Documents\Волгатех ПС - 32\ТЯП\Генератор SLR\obj\Debug\net8.0\ref\SLR.dll

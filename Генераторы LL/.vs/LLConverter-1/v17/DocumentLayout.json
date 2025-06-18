@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\tableslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\tableslider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\lltablecsvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\lltablecsvwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\lltablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\lltablebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|c:\\users\\user\\documents\\\u0432\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u043F\u0441 - 32\\\u0442\u044F\u043F\\\u0433\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B ll\\llconverter-1\\fileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ABEE1F-62EF-442F-986C-6102070BAB61}|LLConverter-1\\LLConverter-1.csproj|solutionrelative:llconverter-1\\fileparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Types.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\Types.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Types.cs",
+              "RelativeToolTip": "LLConverter-1\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:31:51.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableSlider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\TableSlider.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\TableSlider.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\TableSlider.cs",
+              "RelativeToolTip": "LLConverter-1\\TableSlider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:31:48.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LLTableCSVWriter.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\LLTableCSVWriter.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\LLTableCSVWriter.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\LLTableCSVWriter.cs",
+              "RelativeToolTip": "LLConverter-1\\LLTableCSVWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:31:43.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LLTableBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\LLTableBuilder.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\LLTableBuilder.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\LLTableBuilder.cs",
+              "RelativeToolTip": "LLConverter-1\\LLTableBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:31:29.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileParser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\FileParser.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\FileParser.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\FileParser.cs",
+              "RelativeToolTip": "LLConverter-1\\FileParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:18:09.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Program.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Program.cs",
+              "RelativeToolTip": "LLConverter-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:15:47.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Lexer.cs",
+              "RelativeDocumentMoniker": "LLConverter-1\\Lexer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u0412\u043E\u043B\u0433\u0430\u0442\u0435\u0445 \u041F\u0421 - 32\\\u0422\u042F\u041F\\\u0413\u0435\u043D\u0435\u0440\u0430\u0442\u043E\u0440\u044B LL\\LLConverter-1\\Lexer.cs",
+              "RelativeToolTip": "LLConverter-1\\Lexer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:15:45.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
